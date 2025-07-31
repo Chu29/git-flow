@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: #222;
+}
+.btn {
+  /* display: flex; */
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  color: aliceblue;
+  margin-bottom: 0.5em;
+}
+
+button {
+  display: block;
+  margin: 0 auto 2em auto;
+  padding: 1.5em;
+  width: 20%;
+  border-radius: 5em;
+  color: #fff;
+  border: none;
+  font-weight: bold;
+  font-size: large;
+}
+
+.btn1 {
+  background: red;
+}
+.btn2 {
+  background: blue;
+}
+.btn3 {
+  background: indianred;
+}
+.btn4 {
+  background: chocolate;
+}
+.btn5 {
+  background: green;
+}
+.btn6 {
+  background: mediumslateblue;
+}
+.btn7 {
+  background: maroon;
+}
